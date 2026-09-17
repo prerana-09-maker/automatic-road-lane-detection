@@ -34,4 +34,4 @@ The project uses image processing techniques such as grayscale conversion, Gauss
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/automatic-road-lane-detection.git
+https://github.com/prerana-09-maker/automatic-road-lane-detection
